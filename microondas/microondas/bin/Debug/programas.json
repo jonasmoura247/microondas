@@ -1,0 +1,10 @@
+[
+  {
+    "Nome": "test",
+    "Alimento": "tezxt",
+    "Tempo": 21,
+    "Potencia": 1,
+    "CaractereAquecimento": "1",
+    "Instrucoes": "teste"
+  }
+]

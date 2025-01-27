@@ -1,0 +1,18 @@
+[
+  {
+    "Nome": "Peixe",
+    "Alimento": "Peixe Assado",
+    "Tempo": 110,
+    "Potencia": 5,
+    "CaractereAquecimento": "!",
+    "Instrucoes": "ad"
+  },
+  {
+    "Nome": "Lasanha",
+    "Alimento": "lasanha",
+    "Tempo": 120,
+    "Potencia": 5,
+    "CaractereAquecimento": "#",
+    "Instrucoes": "teste"
+  }
+]

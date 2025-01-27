@@ -1,0 +1,4 @@
+C:\Users\Jonas\Desktop\benner\microondas\microondas\obj\Release\microondas.Form1.resources
+C:\Users\Jonas\Desktop\benner\microondas\microondas\obj\Release\microondas.Properties.Resources.resources
+C:\Users\Jonas\Desktop\benner\microondas\microondas\obj\Release\microondas.csproj.GenerateResource.cache
+C:\Users\Jonas\Desktop\benner\microondas\microondas\obj\Release\microondas.csproj.CoreCompileInputs.cache
